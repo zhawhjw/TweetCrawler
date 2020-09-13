@@ -1,0 +1,51 @@
+,state_name,all_screen_names,official_screen_name,personal_screen_name,governor_name
+0,Alabama,"['GovernorKayIvey', 'kayiveyforgov']",GovernorKayIvey,kayiveyforgov,Kay Ivey
+1,Alaska,"['GovDunleavy', 'Protected']",GovDunleavy,Protected,Mike Dunleavy
+2,Arizona,"['9thFloorAZ', 'dougducey']",9thFloorAZ,dougducey,Doug Ducey
+3,Arkansas,"['AsaHutchinson', 'AsaforAR']",AsaHutchinson,AsaforAR,Asa Hutchinson
+4,California,"['CAgovernor', 'GavinNewsom']",CAgovernor,GavinNewsom,Gavin Newsom
+5,Colorado,"['GovofCO', 'jaredpolis']",GovofCO,jaredpolis,Jared Polis
+6,Connecticut,"['GovNedLamont', 'NedLamont']",GovNedLamont,NedLamont,Ned Lamont
+7,Delaware,"['John_Carney', 'JohnCarneyDE']",John_Carney,JohnCarneyDE,John Carney
+8,Florida,"['GovRonDeSantis', 'RonDeSantisFL']",GovRonDeSantis,RonDeSantisFL,Ron DeSantis
+9,Georgia,"['GovKemp', 'BrianKempGA']",GovKemp,BrianKempGA,Brian Kemp
+10,Hawaii,"['GovHawaii', 'None']",GovHawaii,None,David Ige
+11,Idaho,"['GovernorLittle', 'None']",GovernorLittle,None,Brad Little
+12,Illinois,"['GovPritzker', 'JBPritzker']",GovPritzker,JBPritzker,J. B. Pritzker
+13,Indiana,"['GovHolcomb', 'HolcombForIN']",GovHolcomb,HolcombForIN,Eric Holcomb
+14,Iowa,"['IAGovernor', 'KimReynoldsIA']",IAGovernor,KimReynoldsIA,Kim Reynolds
+15,Kansas,"['GovLauraKelly', 'LauraKellyKS']",GovLauraKelly,LauraKellyKS,Laura Kelly
+16,Kentucky,"['GovAndyBeshear', 'AndyBeshearKY']",GovAndyBeshear,AndyBeshearKY,Andy Beshear
+17,Louisiana,"['LouisianaGov', 'JohnBelEdwards']",LouisianaGov,JohnBelEdwards,John Bel Edwards
+18,Maine,"['GovJanetMills', 'JanetMillsforME']",GovJanetMills,JanetMillsforME,Janet Mills
+19,Maryland,"['GovLarryHogan', 'LarryHogan']",GovLarryHogan,LarryHogan,Larry Hogan
+20,Massachusetts,"['MassGovernor', 'CharlieBakerMA']",MassGovernor,CharlieBakerMA,Charlie Baker
+21,Michigan,"['GovWhitmer', 'gretchenwhitmer']",GovWhitmer,gretchenwhitmer,Gretchen Whitmer
+22,Minnesota,"['GovTimWalz', 'Tim_Walz']",GovTimWalz,Tim_Walz,Tim Walz
+23,Mississippi,"['tatereeves', 'None']",tatereeves,None,Tate Reeves
+24,Missouri,"['GovParsonMO', 'mikeparson']",GovParsonMO,mikeparson,Mike Parson
+25,Montana,"['GovernorBullock', 'stevebullockmt']",GovernorBullock,stevebullockmt,Steve Bullock
+26,Nebraska,"['GovRicketts', 'RickettsForGov']",GovRicketts,RickettsForGov,Pete Ricketts
+27,Nevada,"['GovSisolak', 'SteveSisolak']",GovSisolak,SteveSisolak,Steve Sisolak
+28,New Hampshire,"['GovChrisSununu', 'ChrisSununu']",GovChrisSununu,ChrisSununu,Chris Sununu
+29,New Jersey,"['GovMurphy', 'PhilMurphyNJ']",GovMurphy,PhilMurphyNJ,Phil Murphy
+30,New Mexico,"['GovMLG', 'Michelle4NM']",GovMLG,Michelle4NM,Michelle Lujan Grisham
+31,New York,"['NYGovCuomo', 'andrewcuomo']",NYGovCuomo,andrewcuomo,Andrew Cuomo
+32,North Carolina,"['NC_Governor', 'RoyCooperNC']",NC_Governor,RoyCooperNC,Roy Cooper
+33,North Dakota,"['DougForDakota', 'DougBurgum']",DougForDakota,DougBurgum,Doug Burgum
+34,Ohio,"['GovMikeDeWine', 'MikeDeWine']",GovMikeDeWine,MikeDeWine,Mike DeWine
+35,Oklahoma,"['GovStitt', 'None']",GovStitt,None,Kevin Stitt
+36,Oregon,"['OregonGovBrown', 'KateBrownForOR']",OregonGovBrown,KateBrownForOR,Kate Brown
+37,Pennsylvania,"['GovernorTomWolf', 'TomWolfPA']",GovernorTomWolf,TomWolfPA,Tom Wolf
+38,Rhode Island,"['GovRaimondo', 'GinaRaimondo']",GovRaimondo,GinaRaimondo,Gina Raimondo
+39,South Carolina,"['scgovernorpress', 'henrymcmaster']",scgovernorpress,henrymcmaster,Henry McMaster
+40,South Dakota,"['govkristinoem', 'KristiNoem']",govkristinoem,KristiNoem,Kristi Noem
+41,Tennessee,"['GovBillLee', 'BillLeeTN']",GovBillLee,BillLeeTN,Bill Lee
+42,Texas,"['GovAbbott', 'GregAbbott_TX']",GovAbbott,GregAbbott_TX,Greg Abbott
+43,Utah,"['GovHerbert', 'None']",GovHerbert,None,Gary Herbert
+44,Vermont,"['GovPhilScott', 'PhilScott4VT']",GovPhilScott,PhilScott4VT,Phil Scott
+45,Virginia,"['GovernorVA', 'RalphNortham']",GovernorVA,RalphNortham,Ralph Northam
+46,Washington,"['GovInslee', 'JayInslee']",GovInslee,JayInslee,Jay Inslee
+47,West Virginia,"['WVGovernor', 'JimJusticeWV']",WVGovernor,JimJusticeWV,Jim Justice
+48,Wisconsin,"['GovEvers', 'Tony4WI']",GovEvers,Tony4WI,Tony Evers
+49,Wyoming,"['GovernorGordon', 'Mark_Gordon_WY']",GovernorGordon,Mark_Gordon_WY,Mark Gordon
